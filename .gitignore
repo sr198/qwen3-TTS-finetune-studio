@@ -44,3 +44,6 @@ cloud/runpod/*.egg-info/
 *.webm
 samples/
 voice_samples/
+
+# Nepali TTS local data
+data/
