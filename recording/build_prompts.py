@@ -17,6 +17,7 @@ import collections
 import csv
 import random
 import re
+import unicodedata
 from pathlib import Path
 
 from domain_prompts import build as build_domain
@@ -46,6 +47,14 @@ def units(text):
     return out
 
 
+def canonicalize(text):
+    """One Unicode form per spelling: eyelash ra (ऱ्) and र्+ZWJ both become र्; ZWJ/ZWNJ dropped."""
+    text = unicodedata.normalize("NFC", text)
+    text = text.replace("\u0931\u094d", "\u0930\u094d").replace("\u0931", "\u0930")
+    text = text.replace("\u200d", "").replace("\u200c", "")
+    return re.sub(r"\s+", " ", text).strip().replace(" ।", "।")
+
+
 def load_candidates(metadata, slr54, min_word_freq=3, min_common=0.9):
     texts = set()
     with open(metadata, encoding="utf-8") as f:
@@ -56,7 +65,7 @@ def load_candidates(metadata, slr54, min_word_freq=3, min_common=0.9):
             parts = line.rstrip("\n").split("\t")
             if len(parts) == 3:
                 texts.add(parts[2].strip())
-    texts = {re.sub(r"\s+", " ", t).replace(" ।", "।") for t in texts}
+    texts = {canonicalize(t) for t in texts}
     # Word frequency across the corpus: rare words are mostly typos, foreign names or obscure terms.
     wfreq = collections.Counter(w for t in texts for w in WORD.findall(t))
     out = []
@@ -77,7 +86,8 @@ def greedy_cover(cands, k, exclude_units=(), seed=0):
     freq = collections.Counter(u for t in cands for u in units(t))
     weight = {u: 1.0 for u in freq}
     covered = collections.Counter({u: 1 for u in exclude_units})
-    cand_units = {t: units(t) for t in cands}
+    # sorted tuples: float sums must not depend on set order (hash seed), or ties flip between runs
+    cand_units = {t: tuple(sorted(units(t))) for t in cands}
 
     def gain(t):
         # diminishing returns: a unit counts less each time it is already covered (up to 3x)

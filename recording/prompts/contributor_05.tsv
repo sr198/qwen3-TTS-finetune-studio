@@ -50,252 +50,252 @@ cc_0271	hold_transfer	domain	लाइनमा हजुरभन्दा अ�
 cc_0114	questions	domain	हजुरले पहिले पनि यस विषयमा फोन गर्नुभएको थियो?
 cc_0225	telecom	domain	हजुरको डाटा ब्यालेन्स नौ जिबी बाँकी छ।
 cc_0077	hold_transfer	domain	माफ गर्नुहोस्, पर्खाइ अलि लामो भयो।
-cv_02001	coverage	openslr	बीस लोकसभा निर्वाचन क्षेत्रहरू छन्
+cv_02001	coverage	openslr	ईपू एक हजार पच्चीस का अनुसार
 cc_0090	closing	domain	हामीलाई सम्पर्क गर्नुभएकोमा धन्यवाद, हजुरको दिन शुभ रहोस्।
-cv_02002	coverage	openslr	ईपू एक हजार बाह्र वा वर्ष
-cv_02003	coverage	openslr	ईपू एक हजार दुई का अनुसार
+cv_02002	coverage	openslr	अप्रिल एक हजार नौ सय सच्चालीस मा
+cv_02003	coverage	openslr	दुई हजार त्रिपन्न सालमा भएको
 cc_0086	ivr	domain	हजुरले कुनै विकल्प छान्नुभएन।
-cv_02004	coverage	openslr	अप्रिल एक हजार नौ सय सच्चालीस मा
+cv_02004	coverage	openslr	बैशाख दुई हजार त्रिसट्ठी मा
 cc_0022	verification	domain	हजुरको इमेल ठेगाना कुन हो?
-cv_02005	coverage	openslr	आईएलओ एक सय उनन्सत्तरी को अन्तर्राष्ट्रिय
-cv_02006	coverage	openslr	विद्यालय हुँदै दुई हजार चालीस
+cv_02005	coverage	openslr	दुई सय दुई ईपू दुई सय बीस ई कालमा
+cv_02006	coverage	openslr	अनुशासन मानिसका लागि अति आवश्यक छ।
 cc_0450	banking	domain	हजुरको ऋणको किस्ता बाह्र लाख सन्ताउन्न हजार नौ सय चौबीस रुपैयाँ माघ बीस गतेभित्र तिर्नुपर्नेछ।
-cv_02007	coverage	openslr	दुई हजार अठचालीस सालमा यादवलाई
+cv_02007	coverage	openslr	सन् एक हजार आठ सय तेइस मा
 cc_0042	telecom	domain	हाम्रो प्राविधिक टोलीले चौबीस घण्टाभित्र समस्या समाधान गर्नेछ।
-cv_02008	coverage	openslr	मे एक हजार नौ सय चौहत्तर का
-cv_02009	coverage	openslr	दुई हजार अट्ठाइस सालमा दुई
+cv_02008	coverage	openslr	सन् एक हजार नौ सय सत्तरी सम्म
+cv_02009	coverage	openslr	आव दुई हजार सतसट्ठी अठसट्ठी
 cc_0059	billing	domain	स्वचालित भुक्तानी सेवा सुरु गरेपछि हरेक महिना बिल आफैं तिरिनेछ।
-cv_02010	coverage	openslr	अनुशासन मानिसका लागि अति आवश्यक छ।
+cv_02010	coverage	openslr	दुई हजार अठसट्ठी उनन्सत्तरी सम्ममा
 cc_0040	banking	domain	इन्टरनेट बैंकिङमा लगइन गर्न नसकेमा पासवर्ड रिसेट गर्नुहोस्।
-cv_02011	coverage	openslr	सन् एक हजार नौ सय अन्ठान्नब्बे मा
-cv_02012	coverage	openslr	सन् एक हजार आठ सय तेइस मा
+cv_02011	coverage	openslr	नयाँ वर्ष दुई हजार सत्तरीको
+cv_02012	coverage	openslr	कारण दुई हजार छयालीस सालदेखि
 cc_0080	ivr	domain	अंग्रेजी भाषाका लागि दुई थिच्नुहोस्।
-cv_02013	coverage	openslr	आव दुई हजार एकसट्ठी दुई हजार बयसट्ठी मा
+cv_02013	coverage	openslr	बाह्र अक्टोबर दुई हजार पाँच मा
 cc_0073	hold_transfer	domain	म हजुरको कल सम्बन्धित विभागमा जोड्दैछु।
-cv_02014	coverage	openslr	सन् एक हजार आठ सय बीस देखि
-cv_02015	coverage	openslr	फेब्रुअरी दश दुई हजार बाह्र मा
+cv_02014	coverage	openslr	र एक हजार नौ सय अठार का बीच
+cv_02015	coverage	openslr	दुई हजार एघारको अनुसार यो
 cc_0024	verification	domain	हजुरको खाता कुन शाखामा खोलिएको हो?
-cv_02016	coverage	openslr	दुई हजार चौबीस सालमा हालको
+cv_02016	coverage	openslr	निर्वाचन सन् एक हजार आठ सय त्रिचालीस मा
 cc_0098	short	domain	ठिक छ।
-cv_02017	coverage	openslr	दुई हजार पचपन्न सालसम्म शिक्षण
-cv_02018	coverage	openslr	दुई हजार अट्ठाइस जेठमा प्रकाशित
+cv_02017	coverage	openslr	युटिसीको आठ पटक अफसेट सुचक
+cv_02018	coverage	openslr	बाइस नोभेम्बर दुई हजार एघार
 cc_0003	greeting	domain	हामीलाई सम्पर्क गर्नुभएकोमा धन्यवाद।
-cv_02019	coverage	openslr	सन् एक हजार नौ सय अट्ठाइस मा
+cv_02019	coverage	openslr	सन् दुई हजार तेह्र मा भएको
 cc_0041	telecom	domain	हजुरको इन्टरनेट जडानमा प्राविधिक समस्या देखिएको छ।
-cv_02020	coverage	openslr	हुँदै दुई हजार बाउन्न देखि
-cv_02021	coverage	openslr	यो ठाउँमा पाँच सय त्रिचालीस
+cv_02020	coverage	openslr	सन् एक हजार चार सय तीन एक हजार चार सय उनासी र
+cv_02021	coverage	openslr	दुई हजार पचपन्न असोज अट्ठाइस बाट
 cc_0092	closing	domain	थप जानकारी चाहिएमा जुनसुकै बेला फोन गर्न सक्नुहुन्छ।
-cv_02022	coverage	openslr	सबै कार्यालयहरू दुई हजार छपन्न
+cv_02022	coverage	openslr	उनले सन् एक हजार नौ सय बयासी
 cc_0087	ivr	domain	हाम्रो कार्यालय आइतबारदेखि शुक्रबारसम्म खुला रहन्छ।
-cv_02023	coverage	openslr	पाँच मे एक हजार आठ सय एक्काइस मा
-cv_02024	coverage	openslr	दुई हजार तीस सालमा विद्यार्थी
+cv_02023	coverage	openslr	उहाँले सन दुई हजार पाँच मा
+cv_02024	coverage	openslr	एक हजार नौ सय त्रिहत्तर सम्म लगातार
 cc_0078	hold_transfer	domain	म अहिले हजुरको खाताको विवरण जाँच गर्दैछु।
-cv_02025	coverage	openslr	कुनै पनि सम्बन्धित वस्तु बारेमा केही पनि ज्ञान हुनु त्यस वस्तु बारेमा जानकारी हुनु हो।
+cv_02025	coverage	openslr	सन् एक हजार छ सय अठचालीस मा शाहजहाँको
 cc_0095	closing	domain	शुभ दिन, नमस्कार।
-cv_02026	coverage	openslr	सन् एक हजार नौ सय साठी को
-cv_02027	coverage	openslr	सन् एक हजार चार सय तीन एक हजार चार सय उनासी र
+cv_02026	coverage	openslr	दुई सेप्टेम्बर एक हजार नौ सय सतासी
+cv_02027	coverage	openslr	एक हजार नौ सय बयान्नब्बे सम्म विश्वमा
 cc_0071	hold_transfer	domain	कृपया एक छिन लाइनमा रहनुहोस्, म विवरण हेर्दैछु।
-cv_02028	coverage	openslr	दुई हजार पन्ध्र असार एक मा
+cv_02028	coverage	openslr	सन् एक हजार नौ सय एकान्नब्बे को
 cc_0099	short	domain	हुन्छ।
-cv_02029	coverage	openslr	उनले सन् एक हजार नौ सय पचहत्तर मा
-cv_02030	coverage	openslr	उहाँले दुई हजार छयालीस सालमा
+cv_02029	coverage	openslr	ईपू आठ सय त्रियान्नब्बे का अनुसार
+cv_02030	coverage	openslr	विकासको लागि एक हजार नौ सय साठी
 cc_0083	ivr	domain	यो सन्देश फेरि सुन्न तारा चिन्ह थिच्नुहोस्।
-cv_02031	coverage	openslr	एक हजार दुई सय छ एक हजार पाँच सय सत्ताइस र पछि
+cv_02031	coverage	openslr	सन् एक हजार नौ सय उनन्चालीस देखि
 cc_0079	ivr	domain	बैंकिङ सेवाका लागि एक थिच्नुहोस्।
-cv_02032	coverage	openslr	सन् एक हजार नौ सय सत्ताइस मा
-cv_02033	coverage	openslr	दुई सय दुई ईपू दुई सय बीस ई कालमा
+cv_02032	coverage	openslr	उनले सन् एक हजार नौ सय त्रिहत्तर
+cv_02033	coverage	openslr	नेपालको सन् दुई हजार एक को जनगणना अनुसार धनगढी नगरपालिकाको जनसङ्ख्या सतसट्ठी हजार चार सय सच्चालीस छ।
 cc_0456	telecom	domain	हजुरको प्याकेजको म्याद असोज पाँच गतेमा सकिँदैछ।
-cv_02034	coverage	openslr	सन् एक हजार नौ सय अठासी को अन्तमा
+cv_02034	coverage	openslr	विक्रम सम्वत दुई हजार पचपन्न मा
 cc_0076	hold_transfer	domain	जानकारी खोज्न केही समय लाग्न सक्छ, कृपया लाइन नकाट्नुहोला।
-cv_02035	coverage	openslr	त्यसपछि सन् एक हजार नौ सय अन्ठान्नब्बे
-cv_02036	coverage	openslr	पच्चीस फेब्रुअरी एक हजार नौ सय अठचालीस
+cv_02035	coverage	openslr	एक हजार पाँच सय एकान्नब्बे देखि एक हजार छ सय एघार
+cv_02036	coverage	openslr	यो एउटा नेपाली भाषाको बाल साहित्य कृति हो।
 cc_0454	complaint	domain	हजुरको गुनासो दर्ता भएको छ, गुनासो नम्बर दुई दुई पाँच सात छ दुई हो।
-cv_02037	coverage	openslr	पाँच सय पन्चान्नब्बे भन्दा अधिक छ
+cv_02037	coverage	openslr	दुई हजार उनन्तीस मा प्रकाशित
 cc_0075	hold_transfer	domain	म हजुरको कल मेरो सहकर्मीलाई हस्तान्तरण गर्दैछु, उहाँले हजुरलाई थप सहयोग गर्नुहुनेछ।
-cv_02038	coverage	openslr	यसले सन् एक हजार नौ सय छब्बीस को
-cv_02039	coverage	openslr	यस क्रममा दुई हजार बयालीस
+cv_02038	coverage	openslr	सन् दुई हजार नौ को नोभेम्बरमा
+cv_02039	coverage	openslr	सन् दुई हजार तेह्र फेब्रुअरी
 cc_0066	complaint	domain	हजुरको सुझावका लागि धन्यवाद, यसलाई हामी अवश्य ध्यानमा राख्नेछौं।
-cv_02040	coverage	openslr	हुन्छ होला दुई हजार अट्ठाइस
+cv_02040	coverage	openslr	दुई हजार सत्तरी को हार्दिक
 cc_0065	complaint	domain	हजुरले भोग्नुपरेको समस्याप्रति हामी गम्भीर छौं।
-cv_02041	coverage	openslr	दुई हजार सतसट्ठी अठसट्ठी मा
-cv_02042	coverage	openslr	घरपरिवार सङ्ख्या सात सय पचपन्न
+cv_02041	coverage	openslr	पन्ध्र अप्रिल दुई हजार बाह्र
+cv_02042	coverage	openslr	डिसेम्बर एक हजार नौ सय पचास मा
 cc_0019	verification	domain	सुरक्षाका कारणले हामी फोनमा हजुरको पिन नम्बर कहिल्यै सोध्दैनौं।
-cv_02043	coverage	openslr	पच्चीस नोभेम्बर दुई हजार नौ मा
+cv_02043	coverage	openslr	दुई हजार चौवन्न मा जिल्ला
 cc_0068	complaint	domain	हजुरलाई पर्खाउनुपरेकोमा माफी चाहन्छु।
-cv_02044	coverage	openslr	सन् एक हजार छ सय चवालीस देखि
-cv_02045	coverage	openslr	विक्रम सम्वत दुई हजार उनन्सत्तरी मा
+cv_02044	coverage	openslr	दुई हजार पन्ध्र असार एक मा
+cv_02045	coverage	openslr	उनले एक हजार नौ सय चालीस को दशकमा
 cc_0093	closing	domain	हजुरको समस्या समाधान भएकोमा म खुसी छु।
-cv_02046	coverage	openslr	यसलाई सन् एक हजार छ सय पचपन्न मा
+cv_02046	coverage	openslr	दुई हजार बत्तीस सालदेखि सक्रिय
 cc_0063	complaint	domain	यो विषय सम्बन्धित विभागमा पठाइएको छ।
-cv_02047	coverage	openslr	हाल काठमाडौँ विश्वविद्यालयमा दुई हजार बहत्तर जति विद्यार्थी अध्ययनरत छन्।
-cv_02048	coverage	openslr	दुई हजार उनान्साठी साल कात्तिक
+cv_02047	coverage	openslr	दुई हजार एकाउन्न सालमा माओवादी
+cv_02048	coverage	openslr	सन् एक हजार नौ सय बयासी उनी
 cc_0028	banking	domain	केवाईसी फारम अद्यावधिक नभएकाले हजुरको खाता अस्थायी रूपमा निष्क्रिय भएको हो।
-cv_02049	coverage	openslr	सन् दुई हजार तेह्र फेब्रुअरी
+cv_02049	coverage	openslr	अठार जुलाई दुई हजार एघार मा
 cc_0058	billing	domain	हजुरको अघिल्लो महिनाको बक्यौता बाँकी देखिन्छ।
-cv_02050	coverage	openslr	सन् एक हजार नौ सय त्रिहत्तर मा
-cv_02051	coverage	openslr	फेरि दुई हजार बत्तीस सालमा
+cv_02050	coverage	openslr	अभियान पत्रिका एक नेपाली भाषाको पत्रिका हो।
+cv_02051	coverage	openslr	सन् एक हजार नौ सय सत्तरी का
 cc_0062	complaint	domain	म हजुरको समस्या बुझ्न सक्छु, यसलाई चाँडै समाधान गर्ने प्रयास गर्छु।
-cv_02052	coverage	openslr	डिसेम्बर एक हजार नौ सय एकचालीस पूर्वी
+cv_02052	coverage	openslr	सोह्र जुन दुई हजार दश देखि
 cc_0094	closing	domain	धैर्य गर्नुभएकोमा धेरै धन्यवाद।
-cv_02053	coverage	openslr	राजनीतिमा दुई हजार छब्बीस सालमा
-cv_02054	coverage	openslr	दुई हजार छत्तीस सालको जनमत
+cv_02053	coverage	openslr	जस्तो सन् एक हजार नौ सय सत्तरी को
+cv_02054	coverage	openslr	एक हजार नौ सय साठी अप्रिल पच्चीस मा
 cc_0011	greeting	domain	म हजुरको कुरा राम्ररी सुन्न सकिरहेको छैन, अलि ठूलो स्वरमा बोलिदिनुहुन्छ कि?
-cv_02055	coverage	openslr	उनले एक हजार नौ सय एकाउन्न मा
+cv_02055	coverage	openslr	चार अप्रिल दुई हजार बाह्र
 cc_0088	ivr	domain	सार्वजनिक बिदाका दिन हाम्रो कल सेन्टर बन्द रहनेछ।
-cv_02056	coverage	openslr	दुई हजार बहत्तर जति विद्यार्थी
-cv_02057	coverage	openslr	दुई हजार एकाउन्न सालमा नेकपा
+cv_02056	coverage	openslr	ईपू नौ सय अठसट्ठी का अनुसार
+cv_02057	coverage	openslr	जुन एक हजार नौ सय पन्चान्नब्बे मा
 cc_0009	greeting	domain	कृपया हजुरको पूरा नाम भनिदिनुहोस्।
-cv_02058	coverage	openslr	भारतमा त्रैमासिक एक हजार नौ सय एकहत्तर
+cv_02058	coverage	openslr	युकेश उन्नाइस जुन दुई हजार सात
 cc_0004	greeting	domain	हजुरको कल हाम्रा लागि महत्त्वपूर्ण छ, कृपया लाइनमा रहनुहोला।
-cv_02059	coverage	openslr	जसलाई उनले एक हजार नौ सय चौरान्नब्बे को
-cv_02060	coverage	openslr	अठार जुलाई दुई हजार एघार मा
+cv_02059	coverage	openslr	यो ठाउँमा पाँच सय अठसट्ठी
+cv_02060	coverage	openslr	दुई हजार उनन्तीस सालमा नेपाल
 cc_0089	closing	domain	के म हजुरलाई अरू केही सहयोग गर्न सक्छु?
-cv_02061	coverage	openslr	अभियान पत्रिका एक नेपाली भाषाको पत्रिका हो।
+cv_02061	coverage	openslr	विक्रम सम्वत दुई हजार उनन्सत्तरी मा
 cc_0044	telecom	domain	राउटरमा रातो बत्ती बलिरहेको छ कि हरियो?
-cv_02062	coverage	openslr	सन् एक हजार नौ सय सत्तरी का
-cv_02063	coverage	openslr	पाँच अक्टोबर दुई हजार चार
+cv_02062	coverage	openslr	उहाँले दुई हजार एकचालीस सालमा
+cv_02063	coverage	openslr	जनमुक्ति पार्टी नेपाल नेपालको एउटा राजनीतिक दल हो।
 cc_0060	billing	domain	गलत शुल्क काटिएको हो भने हामी त्यसको छानबिन गर्नेछौं।
-cv_02064	coverage	openslr	पन्ध्र हजार बयासी जनाको छ
+cv_02064	coverage	openslr	सन् एक हजार नौ सय बयान्नब्बे मा उनलाई
 cc_0102	short	domain	एक छिन है।
-cv_02065	coverage	openslr	एक हजार नौ सय सन्तान्नब्बे सालमा आफ्ना
-cv_02066	coverage	openslr	जर्मन अमेरिकी अभिनेत्री र गायक
+cv_02065	coverage	openslr	उहाँ सन् एक हजार नौ सय पचहत्तर
+cv_02066	coverage	openslr	सन् एक हजार आठ सय चौँतीस मा
 cc_0081	ivr	domain	ग्राहक प्रतिनिधिसँग कुरा गर्न नौ थिच्नुहोस्।
-cv_02067	coverage	openslr	पृथ्वीको दुई सय बाउन्न पटक
+cv_02067	coverage	openslr	मे एक हजार नौ सय बयालीस का
 cc_0025	verification	domain	विवरण नमिलेसम्म म यो अनुरोध अगाडि बढाउन सक्दिनँ।
-cv_02068	coverage	openslr	एक फेब्रुअरी एक हजार नौ सय अठहत्तर
-cv_02069	coverage	openslr	ईपू नौ सय अठतीस का अनुसार
+cv_02068	coverage	openslr	दुई हजार अट्ठाइस सालदेखि सदरमुकाम
+cv_02069	coverage	openslr	थियो र सन् एक हजार नौ सय पचहत्तर
 cc_0007	greeting	domain	शुभ अपराह्न, ग्राहक सेवामा फोन गर्नुभएकोमा धन्यवाद।
-cv_02070	coverage	openslr	जुन एक हजार नौ सय चालीस का
+cv_02070	coverage	openslr	एक हजार नौ सय बीस का दशकका
 cc_0031	banking	domain	हजुरको कार्ड हराएको हो भने हामी तुरुन्तै त्यसलाई ब्लक गर्छौं।
-cv_02071	coverage	openslr	युकेश उन्नाइस जुन दुई हजार सात
-cv_02072	coverage	openslr	युटिसीको नौ तीसको समय अफसेट सुचक
+cv_02071	coverage	openslr	एक्काइस मे एक हजार नौ सय उनासी
+cv_02072	coverage	openslr	राजनीतिमा दुई हजार छब्बीस सालमा
 cc_0048	telecom	domain	नेटवर्क कमजोर भएको ठाउँमा कल काटिन सक्छ।
-cv_02073	coverage	openslr	युटिसीको एघारको समय अफसेट सुचक
+cv_02073	coverage	openslr	सेप्टेम्बर बाह्र दुई हजार बाह्र का दिन
 cc_0056	billing	domain	बिलको विस्तृत विवरण हजुरको इमेलमा पठाइएको छ।
-cv_02074	coverage	openslr	एक हजार नौ सय साठी को दशकमा
-cv_02075	coverage	openslr	एक हजार नौ सय नब्बे सम्म यो
+cv_02074	coverage	openslr	सन् एक हजार आठ सय चौंसट्ठी मा
+cv_02075	coverage	openslr	तेइस मार्च दुई हजार एघार मा
 cc_0045	telecom	domain	हजुरको क्षेत्रमा अहिले मर्मतको काम भइरहेको छ।
-cv_02076	coverage	openslr	दुई हजार उनन्चास साल वैशाख
+cv_02076	coverage	openslr	संविधान दुई हजार सच्चालीस को
 cc_0036	banking	domain	खाता बन्द गर्नका लागि हजुर स्वयं शाखामा उपस्थित हुनुपर्छ।
-cv_02077	coverage	openslr	विक्रम सम्वत एक हजार नौ सय तीन असोज
-cv_02078	coverage	openslr	एक हजार नौ सय अठसट्ठी को मार्च
+cv_02077	coverage	openslr	सतहत्तर हजार छ सय अठचालीस
+cv_02078	coverage	openslr	यस गाविसमा कुल चार सय अस्सी घरधुरी रहेका छन्।
 cc_0017	verification	domain	धन्यवाद, हजुरको विवरण पुष्टि भयो।
-cv_02079	coverage	openslr	एक हजार नौ सय छयहत्तर को जुन सोह्र देखि
+cv_02079	coverage	openslr	यसको प्रकाशन दुई हजार चौबीस मा
 cc_0449	banking	domain	हजुरको अन्तिम कारोबार कात्तिक आठ गतेमा भएको थियो।
-cv_02080	coverage	openslr	जनगणना दुई हजार अठसट्ठी ले
-cv_02081	coverage	openslr	सन् एक हजार नौ सय बयान्नब्बे मा उनलाई
+cv_02080	coverage	openslr	सन् एक हजार नौ सय चौरान्नब्बे देखि एक हजार नौ सय उनान्सय सम्म
+cv_02081	coverage	openslr	यसको उत्तरमा दुई हजार पैंसट्ठी
 cc_0097	short	domain	हजुर।
-cv_02082	coverage	openslr	दुई हजार अठार माघ अट्ठाइस गते
+cv_02082	coverage	openslr	यो ठाउँमा दुई सय पन्चान्नब्बे
 cc_0055	billing	domain	रकम फिर्ता हुन तीनदेखि पाँच कार्य दिन लाग्न सक्छ।
-cv_02083	coverage	openslr	दुई हजार अट्ठाइस मा प्रकाशित
-cv_02084	coverage	openslr	थिए सन् एक हजार नौ सय एकाउन्न मा
+cv_02083	coverage	openslr	पाँच सय चवालीस मिटर रहेको छ
+cv_02084	coverage	openslr	दुई हजार आठ को जुन पच्चीस मा
 cc_0085	ivr	domain	हजुरले थिच्नुभएको नम्बर मिलेन, कृपया फेरि प्रयास गर्नुहोस्।
-cv_02085	coverage	openslr	एक्काइस मार्च दुई हजार दश लाई
+cv_02085	coverage	openslr	अक्टोबर एक हजार आठ सय पन्चान्नब्बे
 cc_0057	billing	domain	ढिला भुक्तानी गरेमा थप शुल्क लाग्न सक्छ।
-cv_02086	coverage	openslr	सेप्टेम्बर बाह्र दुई हजार बाह्र का दिन
-cv_02087	coverage	openslr	बाइस फेब्रुअरी एक हजार नौ सय त्रियासी
+cv_02086	coverage	openslr	जसमध्ये एक हजार एक सय बाइस पुरुष
+cv_02087	coverage	openslr	सन् एक हजार नौ सय अठार मा
 cc_0054	billing	domain	भुक्तानी हुन सकेको देखिँदैन, कृपया केही समयपछि फेरि प्रयास गर्नुहोस्।
-cv_02088	coverage	openslr	पुरानकोट नेपालको पश्चिमाञ्चल विकास क्षेत्र गण्डकी अञ्चलको लमजुङ जिल्लामा अवस्थित एक गाउँ विकास समिति हो।
+cv_02088	coverage	openslr	खनाल दुई हजार सच्चालीस सालसम्म
 cc_0455	complaint	domain	हामी पुस चार गतेभित्र हजुरलाई जानकारी दिनेछौं।
-cv_02089	coverage	openslr	यो दुई हजार छयसट्ठी सालमा
-cv_02090	coverage	openslr	सन् एक हजार आठ सय चौंसट्ठी मा
+cv_02089	coverage	openslr	केन्द्रीय संयुक्त राज्य अमेरिकामा रहेको नदी
+cv_02090	coverage	openslr	नयाँ नेपाल राष्ट्रिय पार्टी नेपालको एउटा राजनीतिक दल हो।
 cc_0013	greeting	domain	लाइन अलि खराब छ, म हजुरलाई केही बेरमा फेरि फोन गर्छु।
-cv_02091	coverage	openslr	संविधान दुई हजार सच्चालीस कार्तिक
+cv_02091	coverage	openslr	मङ्गल उच्च माध्यमिक विद्यालयले विगतको भन्दा निकै राम्रो प्रगति गरेको छ
 cc_0103	short	domain	माफ गर्नुहोस्।
-cv_02092	coverage	openslr	सन् एक हजार नौ सय एक मा जनसङ्ख्या
-cv_02093	coverage	openslr	सन् एक हजार नौ सय सत्र देखि
+cv_02092	coverage	openslr	उहाँ दुई हजार बयालीस सालमा
+cv_02093	coverage	openslr	नेपालको संविधान दुई हजार उन्नाइस
 cc_0010	greeting	domain	के हजुर अहिले बोल्न मिल्ने अवस्थामा हुनुहुन्छ?
-cv_02094	coverage	openslr	दुई हजार तेह्रमा प्रकाशित भएको
+cv_02094	coverage	openslr	एक हजार नौ सय बयान्नब्बे को अप्रिल देखि
 cc_0084	ivr	domain	कृपया आफ्नो खाता नम्बर टाइप गरेर अन्त्यमा ह्यास थिच्नुहोस्।
-cv_02095	coverage	openslr	एक हजार नौ सय बाउन्न को जुन सम्ममा
-cv_02096	coverage	openslr	बाइस देखि दुई हजार त्रिसट्ठी
+cv_02095	coverage	openslr	यो प्रणाली एक हजार नौ सय त्रिपन्न मा
+cv_02096	coverage	openslr	यहाँको करिब चार सय सत्तरी
 cc_0030	banking	domain	चेकबुकका लागि निवेदन हजुरको शाखामा दिनुपर्नेछ।
-cv_02097	coverage	openslr	दुई हजार अन्ठाउन्न सालमा हुम्ला
+cv_02097	coverage	openslr	एक हजार नौ सय उनान्नब्बे देखि नै
 cc_0067	complaint	domain	म बुझ्छु, यो पक्कै पनि झन्झटिलो भयो होला।
-cv_02098	coverage	openslr	सन् एक हजार सात सय चौरासी मा उनी
-cv_02099	coverage	openslr	अक्टोबर एक हजार आठ सय पन्चान्नब्बे
+cv_02098	coverage	openslr	यसको निर्माण एक हजार नौ सय त्रियान्नब्बेमा
+cv_02099	coverage	openslr	आईएलओ एक सय उनन्सत्तरी को अन्तर्राष्ट्रिय
 cc_0050	telecom	domain	नयाँ प्याकेज सक्रिय भएपछि हजुरलाई पुष्टि सन्देश आउनेछ।
-cv_02100	coverage	openslr	धर्म सन् एक हजार नौ सय उनान्सय
+cv_02100	coverage	openslr	उनको दुई हजार त्रिपन्न सालदेखि
 cc_0043	telecom	domain	कृपया राउटर एक पटक बन्द गरेर तीस सेकेन्डपछि फेरि खोल्नुहोस्।
-cv_02101	coverage	openslr	खनाल दुई हजार छत्तीस सालका
-cv_02102	coverage	openslr	केन्द्रीय एसियामा अवस्थित पर्वत श्रेणीको प्रणाली
+cv_02101	coverage	openslr	सन् एक हजार सात सय चौरासी मा उनी
+cv_02102	coverage	openslr	दुई हजार उनन्चास साल वैशाख
 cc_0100	short	domain	बुझेँ।
-cv_02103	coverage	openslr	सन् एक हजार नौ सय सत्तरीमा
+cv_02103	coverage	openslr	त्यो परिवारका पहिलो व्यक्ति थिए
 cc_0047	telecom	domain	रिचार्ज गर्न हजुरले डिजिटल वालेट वा बैंक एप प्रयोग गर्न सक्नुहुन्छ।
-cv_02104	coverage	openslr	मध्य डिसेम्बर एक हजार नौ सय बहत्तर
-cv_02105	coverage	openslr	दुई हजार चार सालमा नेपाली
+cv_02104	coverage	openslr	अध्ययन दुई हजार त्रिपन्न नामक
+cv_02105	coverage	openslr	सन् एक हजार नौ सय बयान्नब्बे मा
 cc_0091	closing	domain	कल सकिएपछि छोटो सर्वेक्षणमा हजुरको राय दिनुहोला।
-cv_02106	coverage	openslr	दुई हजार अन्ठाउन्न सालको जनगणना
+cv_02106	coverage	openslr	बाह्र अक्टोबर दुई हजार सात मा
 cc_0039	banking	domain	क्युआर कोड स्क्यान गरेर पनि भुक्तानी गर्न सकिन्छ।
-cv_02107	coverage	openslr	एक हजार नौ सय बयान्नब्बे अगस्ट बीस
-cv_02108	coverage	openslr	यिनी दुई हजार छयसट्ठी सालको
+cv_02107	coverage	openslr	ईपू आठ सय बयसट्ठी का अनुसार
+cv_02108	coverage	openslr	अप्रिल एक हजार नौ सय चौहत्तर एक
 cc_0020	verification	domain	कृपया आफ्नो पासवर्ड वा ओटीपी कसैलाई पनि नदिनुहोला।
-cv_02109	coverage	openslr	एक हजार नौ सय उनान्नब्बे को जुलाई पाँच मा
+cv_02109	coverage	openslr	यो एक नेपाली भाषाको बाल साहित्य कृति हो।
 cc_0023	verification	domain	हजुरको स्थायी ठेगाना कुन जिल्लामा पर्छ?
-cv_02110	coverage	openslr	यसको पहिलो प्रति दुई हजार चौध मा प्रकाशित भएको थियो।
-cv_02111	coverage	openslr	एक हजार नौ सय साठी का दशकमा
+cv_02110	coverage	openslr	यस मन्दिरलाई एक हजार नौ सय नब्बे
+cv_02111	coverage	openslr	सन् एक हजार आठ सय चौरासी मा
 cc_0034	banking	domain	हजुरको ऋणको आवेदन अहिले समीक्षाको क्रममा छ।
-cv_02112	coverage	openslr	युटिसीको पाँच समय अफसेट सुचक
+cv_02112	coverage	openslr	दुई हजार छयालीस को जनआन्दोलनको
 cc_0082	ivr	domain	मुख्य मेनुमा फर्कन शून्य थिच्नुहोस्।
-cv_02113	coverage	openslr	मार्च एक हजार नौ सय उनान्सयमा
-cv_02114	coverage	openslr	प्रतियोगिता दुई हजार बाह्र का
+cv_02113	coverage	openslr	जो दुई मे एक हजार नौ सय सन्तान्नब्बे
+cv_02114	coverage	openslr	सन् एक हजार नौ सय पैँतालीस नोभेम्बरमा
 cc_0453	verification	domain	हजुरको खाता नम्बरको अन्तिम चार अङ्क एक सात नौ सात हुन्।
-cv_02115	coverage	openslr	दुई हजार आठ सालसम्म दार्जिलिङ
+cv_02115	coverage	openslr	ईपू नौ सय छब्बीस का अनुसार
 cc_0026	banking	domain	हजुरको डेबिट कार्ड अस्थायी रूपमा रोक्का गरिएको छ।
-cv_02116	coverage	openslr	त्यो युद्धमा तीन सय बत्तीस
-cv_02117	coverage	openslr	ठुलो वाहन जसले मान्छे परिवहन गर्न सक्छन्
+cv_02116	coverage	openslr	ईपू आठ सय एकहत्तर वा वर्ष
+cv_02117	coverage	openslr	एक सय चौहत्तर फुटको उचाइमा
 cc_0032	banking	domain	एटीएमबाट पैसा नआएर पनि खाताबाट रकम काटिएको हो भने त्यो स्वतः फिर्ता हुन्छ।
-cv_02118	coverage	openslr	कारण सन् एक हजार आठ सय चालीस को
+cv_02118	coverage	openslr	यसले संविधान सभा निर्वाचन दुई हजार सत्तरी मा भाग लिएको थियो।
 cc_0101	short	domain	अवश्य पनि।
-cv_02119	coverage	openslr	अध्ययन दुई हजार त्रिपन्न नामक
-cv_02120	coverage	openslr	सन् एक हजार नौ सय बयान्नब्बे मा
+cv_02119	coverage	openslr	एक हजार नौ सय पचासी साउन पच्चीस मा
+cv_02120	coverage	openslr	एक हजार आठ सय उनान्सय हेक्टरमा फैलिएको
 cc_0021	verification	domain	हजुरको नागरिकताको प्रमाणपत्र नम्बर भनिदिनुहुन्छ कि?
-cv_02121	coverage	openslr	कुमारले वर्ष एक हजार नौ सय चालीस बाट
+cv_02121	coverage	openslr	एक हजार नौ सय त्रिसट्ठी मा तिनको
 cc_0035	banking	domain	मुद्दती खाताको ब्याज हरेक त्रैमासिकमा हजुरको बचत खातामा जम्मा हुन्छ।
-cv_02122	coverage	openslr	यो पत्रिकाको प्रकाशक भारत सरकार सूचना प्रसार विभाग हो।
-cv_02123	coverage	openslr	तेह्र डिसेम्बर एक हजार नौ सय सतासी
+cv_02122	coverage	openslr	यो विमानस्थल एक हजार नौ सय अन्ठाउन्न
+cv_02123	coverage	openslr	देखि सात सय चौरान्नब्बे का
 cc_0046	telecom	domain	वाइफाइको पासवर्ड परिवर्तन गर्ने तरिका म हजुरलाई एसएमएसमार्फत पठाइदिन्छु।
-cv_02124	coverage	openslr	लिएपछि दुई हजार सन्ताउन्न सालदेखि
+cv_02124	coverage	openslr	दुई हजार पचास सालदेखि हालसम्म
 cc_0072	hold_transfer	domain	पर्खिनुभएकोमा धन्यवाद।
-cv_02125	coverage	openslr	ईपू आठ सय पैंसट्ठी का अनुसार
-cv_02126	coverage	openslr	तिनलाई एक हजार नौ सय पचास मा
+cv_02125	coverage	openslr	उनी सन् एक हजार आठ सय पैँतालीस
+cv_02126	coverage	openslr	तीन सय छत्तीस मिटरको उचाइमा
 cc_0070	complaint	domain	हजुरको गुनासो हाम्रो प्राथमिकतामा छ।
-cv_02127	coverage	openslr	अप्रिल एक हजार नौ सय चौहत्तर एक
+cv_02127	coverage	openslr	सन् एक हजार नौ सय पचासी मा
 cc_0027	banking	domain	नयाँ कार्ड सात कार्य दिनभित्र हजुरको शाखामा आइपुग्नेछ।
-cv_02128	coverage	openslr	राई दुई हजार चौवन्न सालमा
-cv_02129	coverage	openslr	दुई हजार छयसट्ठी सालदेखि नगरपालिकामा
+cv_02128	coverage	openslr	सन् एक हजार नौ सय अठासी को अन्तमा
+cv_02129	coverage	openslr	उनन्तीस अप्रिल दुई हजार दश मा
 cc_0457	telecom	domain	हजुरको डाटा ब्यालेन्स उनान्सय जिबी बाँकी छ।
-cv_02130	coverage	openslr	राजनीति मार्फत दुई हजार तेइस
+cv_02130	coverage	openslr	यस दिन गाई र धनको पूजा गर्ने गरिन्छ।
 cc_0037	banking	domain	हजुरको खातामा अहिलेसम्म कुनै शंकास्पद कारोबार देखिएको छैन।
-cv_02131	coverage	openslr	उमेरमा दुई हजार सत्तरी कार्तिक
-cv_02132	coverage	openslr	सन् एक हजार नौ सय पैँतालीस नोभेम्बरमा
+cv_02131	coverage	openslr	त्रैमासिक दुई हजार सत्ताइस फागुनमा
+cv_02132	coverage	openslr	एक हजार नौ सय सतहत्तर सम्म
 cc_0074	hold_transfer	domain	अहिले हाम्रा सबै प्रतिनिधिहरू व्यस्त हुनुहुन्छ, कृपया केही बेर पर्खनुहोस्।
-cv_02133	coverage	openslr	ईपू नौ सय चौँतीस का अनुसार
+cv_02133	coverage	openslr	अठार अप्रिल एक हजार नौ सय चालीस
 cc_0052	telecom	domain	प्राविधिक कर्मचारी हजुरको घरमा आउनुअघि फोन गर्नुहुनेछ।
-cv_02134	coverage	openslr	दुई हजार छपन्न देखि एमाले
-cv_02135	coverage	openslr	सन् एक हजार नौ सय अन्ठाउन्न मा
+cv_02134	coverage	openslr	यहाँका प्रमुख धार्मिक स्थलहरूमा देखिन्छ
+cv_02135	coverage	openslr	सन् एक हजार आठ सय चौबीस मा
 cc_0451	verification	domain	हजुरको दर्ता भएको मोबाइल नम्बर नौ आठ चार शून्य नौ पाँच छ एक आठ शून्य हो, होइन?
-cv_02136	coverage	openslr	ईपू आठ सय उनान्साठी वा वर्ष
+cv_02136	coverage	openslr	यसपछि एक हजार नौ सय अस्सी मा
 cc_0001	greeting	domain	नमस्कार, ग्राहक सेवा केन्द्रमा हजुरलाई स्वागत छ।
-cv_02137	coverage	openslr	मासिक दुई हजार अट्ठाइस असोजमा
-cv_02138	coverage	openslr	दुई हजार अठतीस सालमा पाँच
+cv_02137	coverage	openslr	जब त्यो एक हजार छ सय तीनमा
+cv_02138	coverage	openslr	एक हजार नौ सय नब्बे सम्म यो
 cc_0006	greeting	domain	शुभ प्रभात, म हजुरलाई के सहयोग गर्न सक्छु?
-cv_02139	coverage	openslr	एक हजार नौ सय पचासी को नोभेम्बरमा
+cv_02139	coverage	openslr	सन् एक हजार नौ सय बाउन्न देखि एक हजार नौ सय उनान्साठी सम्म
 cc_0018	verification	domain	माफ गर्नुहोस्, हजुरले दिनुभएको विवरण हाम्रो रेकर्डसँग मिलेन।
-cv_02140	coverage	openslr	एक हजार आठ सय उनान्सय देखि एक हजार नौ सय दुई सम्म
-cv_02141	coverage	openslr	एक हजार नौ सय त्रिसट्ठी को जुलाईमा
+cv_02140	coverage	openslr	तर सन् एक हजार नौ सय त्रिचालीस
+cv_02141	coverage	openslr	अनुसार दुई हजार उन्नाइस सालमा
 cc_0064	complaint	domain	हजुरलाई अझै सन्तुष्टि नभएमा म सुपरभाइजरसँग कुरा गराइदिन्छु।
-cv_02142	coverage	openslr	देखि दुई हजार छयसट्ठी साल
+cv_02142	coverage	openslr	सन् एक हजार चार सय एघार मा
 cc_0051	telecom	domain	हजुरको फाइबर जडान अपग्रेड गर्न सकिन्छ।
-cv_02143	coverage	openslr	उनी दुई हजार छयालीस सालको
-cv_02144	coverage	openslr	तीन सय उनन्सत्तरी वर्ष पुरानो
+cv_02143	coverage	openslr	का रूपमा सन् एक हजार नौ सय चौरान्नब्बे
+cv_02144	coverage	openslr	सन् एक हजार नौ सय बयासी मा
 cc_0096	closing	domain	हजुरसँग कुरा गर्न पाउँदा खुसी लाग्यो।
-cv_02145	coverage	openslr	सन् एक हजार नौ सय पचासी मा
+cv_02145	coverage	openslr	एक हजार नौ सय सच्चालीस मा
 cc_0008	greeting	domain	के म हजुरको नाम थाहा पाउन सक्छु?
-cv_02146	coverage	openslr	मासिक दुई हजार अट्ठाइस जेठमा
-cv_02147	coverage	openslr	एक हजार नौ सय सतसट्ठी भारतमा
+cv_02146	coverage	openslr	एक हजार नौ सय छब्बीस ईमा उनी
+cv_02147	coverage	openslr	देखि एक हजार पाँच सय बाइस मिटरको
 cc_0038	banking	domain	रकम गलत खातामा पठाइएको हो भने कृपया तुरुन्तै लिखित निवेदन दिनुहोस्।
-cv_02148	coverage	openslr	अठार अप्रिल एक हजार नौ सय चालीस
+cv_02148	coverage	openslr	यहाँ तीन सय पचास मानिसहरूलाई
 cc_0029	banking	domain	मोबाइल बैंकिङ एपबाट हजुर घरबाटै रकम ट्रान्सफर गर्न सक्नुहुन्छ।
-cv_02149	coverage	openslr	यिनी एक हजार नौ सय छयसट्ठी देखि
-cv_02150	coverage	openslr	नौ सेप्टेम्बर एक हजार नौ सय सतासी
+cv_02149	coverage	openslr	सन् एक हजार नौ सय त्रियान्नब्बे सम्म
+cv_02150	coverage	openslr	भारतमा त्रैमासिक एक हजार नौ सय एकहत्तर
